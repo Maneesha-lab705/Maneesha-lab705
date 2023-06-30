@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilshan</h1>
 <h3 align="center">Software Engineer</h3>
-<img src="[[https://img.freepik.com/free-vector/low-code-development-concept-illustration_114360-7294.jpg](https://img.freepik.com/free-vector/desktop-smartphone-app-development_23-2148683810.jpg?w=740&t=st=1688129047~exp=1688129647~hmac=69e5d8168dca703cf0aa60a9439257f5b33ccfd88cd657f53cf571acd72eca14)">
+<img src="https://www.freepik.com/free-photo/rpa-concept-with-blurry-hand-touching-screen_23992698.htm#query=software&position=1&from_view=search&track=sph">
 
 - 🔭 I’m currently working on **Myportfolio**
 
