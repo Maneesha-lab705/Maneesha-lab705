@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilshan</h1>
 <h3 align="center">Software Engineer</h3>
-<img align ="center" src="https://www.freepik.com/free-vector/desktop-smartphone-app-development_10276838.htm#query=software&position=1&from_view=search&track=sph"/>
+<img align ="center" src="https://www.freepik.com/free-vector/desktop-smartphone-app-development_10276838.htm#query=software&position=1&from_view=search&track=sph">
 
 - 🔭 I’m currently working on **Myportfolio**
 
