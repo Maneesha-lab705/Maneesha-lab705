@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/maneesha dilshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maneesha dilshan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maneesha dilshan" target="blank"><img align="center" src="[https://raw.github](https://www.freepik.com/free-vector/desktop-smartphone-app-development_10276838.htm#query=software&position=1&from_view=search&track=sph)" alt="maneesha dilshan" height="30" width="40" /></a>
 <a href="https://fb.com/maneesha dilruksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maneesha dilruksha" height="30" width="40" /></a>
 </p>
 
